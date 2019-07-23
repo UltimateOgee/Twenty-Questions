@@ -1,0 +1,4 @@
+yes Is your thing smaller than a car?
+no blank unreachable
+yes Is your thing usually one color rather than two or more colors?
+no Is your thing usually one color rather than two or more colors?
